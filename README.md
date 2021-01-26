@@ -59,6 +59,8 @@ Android Studio is developed by JetBrain in 2016
 * Oreo for Android 8 in 2017
 
   * Wi-Fi Aware
+  
+  * UX
 
   * Picture in Picture
 
