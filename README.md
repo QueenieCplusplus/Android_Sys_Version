@@ -58,6 +58,10 @@ Android Studio is developed by JetBrain in 2016
 
 * Oreo for Android 8 in 2017
 
+* Picture in Picture
+
+* Suspend System Notification
+
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/O_2017(8).png)
 
 -------------------------------------------------------------
