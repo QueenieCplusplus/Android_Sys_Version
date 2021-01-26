@@ -65,6 +65,8 @@ Android Studio is developed by JetBrain in 2016
   * Suspend System Notification
   
   * Android Go
+  
+  * Unicode 10 replaces Blob
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/O_2017(8).png)
 
