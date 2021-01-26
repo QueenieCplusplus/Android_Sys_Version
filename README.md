@@ -82,6 +82,8 @@ Kotlin developed by JetBrain is welcomed by Google in 2018
 
    * New Gesture UI
    
+   * Audio Volumn Float
+   
    * DNS over TLS
    
    * Wind down
