@@ -47,3 +47,15 @@ Kotlin developed by JetBrain is welcomed by Google in 2018
 * Pie for Android 9 in 2018
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/P_2018(9).png)
+
+* QueensCake for Android 10 in 2019
+
+![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/Q_2019(10).png)
+
+-------------------------------------------------------------
+
+No more Dessert in Android World
+
+-------------------------------------------------------------
+
+* R for Android 30 in 2020
