@@ -76,6 +76,8 @@ Android Studio is developed by JetBrain in 2016
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/O_2017(8).png)
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/AndroidStudio_2017.png)
+
 -------------------------------------------------------------
 
 Kotlin developed by JetBrain is welcomed by Google in 2018
