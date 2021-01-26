@@ -8,10 +8,10 @@ Features and Style in Android System.
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/J_2012(4).png)
 
 
-* K
+* K for Android 4 in 2013
 
-* Lollipop for Android 5 in 20
+* Lollipop for Android 5 in 2014
 
-* MarshMellow for Android 6 in 2014
+* MarshMellow for Android 6 in 2015
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/L_2014(5).png)
