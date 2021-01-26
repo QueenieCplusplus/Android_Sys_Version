@@ -84,6 +84,8 @@ Kotlin developed by JetBrain is welcomed by Google in 2018
    
    * AI Reply
    
+   * Wind down
+   
    * Adaptive Battery
    
    * Adaptive Brightness
