@@ -15,3 +15,13 @@ Features and Style in Android System.
 * MarshMellow for Android 6 in 2015
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/L_2014(5).png)
+
+-------------------------------------------------------------
+
+Android Studio is developed by JetBrain in 2016
+
+-------------------------------------------------------------
+
+* Nougat for Android 7 in 2016
+
+![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/N_2016(7).png)
