@@ -40,6 +40,10 @@ Android Studio is developed by JetBrain in 2016
 
 * Nougat for Android 7 in 2016
 
+  * Language
+  
+  * Multi-Views
+
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/N_2016(7).png)
 
 * O for Android 8 in 2017
