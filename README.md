@@ -63,6 +63,8 @@ Android Studio is developed by JetBrain in 2016
   * Picture in Picture
 
   * Suspend System Notification
+  
+  * Android Go
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/O_2017(8).png)
 
