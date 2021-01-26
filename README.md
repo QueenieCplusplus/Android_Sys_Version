@@ -90,6 +90,8 @@ Kotlin developed by JetBrain is welcomed by Google in 2018
    
    * Adaptive Brightness
    
+   * support High Efficiency Image File Format
+   
    * Screen Shot
    
    * AI Reply
