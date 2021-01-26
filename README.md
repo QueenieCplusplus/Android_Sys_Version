@@ -43,6 +43,14 @@ Android Studio is developed by JetBrain in 2016
   * Language
   
   * Multi-Views
+  
+  * System Notification
+  
+  * VR
+  
+  * Background
+  
+  * Crypto-File
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/N_2016(7).png)
 
