@@ -108,6 +108,8 @@ Kotlin developed by JetBrain is welcomed by Google in 2018
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/P_2018(9).png)
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Sys_Version/main/Kotlin_2019.png)
+
 * QueensCake for Android 10 in 2019
 
   * 繼承系統 
