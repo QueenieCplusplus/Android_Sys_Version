@@ -42,6 +42,8 @@ Android Studio is developed by JetBrain in 2016
 
   * Language
   
+  * Font
+  
   * Multi-Views
   
   * System Notification
