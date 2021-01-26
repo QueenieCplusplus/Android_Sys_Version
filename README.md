@@ -79,6 +79,8 @@ Kotlin developed by JetBrain is welcomed by Google in 2018
 -------------------------------------------------------------
 
 * Pie for Android 9 in 2018
+
+   * New Gesture UI
    
    * DNS over TLS
    
